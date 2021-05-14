@@ -1,2 +1,2 @@
-# React_Mapping-Data-to-Components-Practice
+# React_React-DevTools
 Created with CodeSandbox
